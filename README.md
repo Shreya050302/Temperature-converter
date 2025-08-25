@@ -1,4 +1,4 @@
- Temperature-converter   Welcome to our comprehensive tutorial on creating a Fahrenheit to Celsius range slider using HTML, CSS, and JavaScript. In this guide, we will walk you through the process of building an interactive temperature converter that allows users to effortlessly convert temperatures between Fahrenheit and Celsius on a web page.
+Temperature-converter   Welcome to our comprehensive tutorial on creating a Fahrenheit to Celsius range slider using HTML,  CSS, and JavaScript. 
 
 # 🌡 Temperature Converter Web App
 
